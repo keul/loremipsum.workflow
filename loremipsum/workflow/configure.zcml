@@ -14,6 +14,10 @@
       description="Installs the loremipsum.workflow package"
       provides="Products.GenericSetup.interfaces.EXTENSION"
       />
-  <!-- -*- extra stuff goes here -*- -->
-  
+
+  <utility
+      name="Super Revisore"
+      factory=".localroles.SuperRevisoreRole"
+      />
+
 </configure>
