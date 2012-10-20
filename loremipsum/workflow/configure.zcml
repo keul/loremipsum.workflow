@@ -11,7 +11,7 @@
       name="default"
       title="loremipsum.workflow"
       directory="profiles/default"
-      description="Installs the loremipsum.workflow package"
+      description="Installazione del workflow della Lorem Ipsum S.r.L."
       provides="Products.GenericSetup.interfaces.EXTENSION"
       />
 
