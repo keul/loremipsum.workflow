@@ -15,9 +15,4 @@
       provides="Products.GenericSetup.interfaces.EXTENSION"
       />
 
-  <utility
-      name="Super Revisore"
-      factory=".localroles.SuperRevisoreRole"
-      />
-
 </configure>

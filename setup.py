@@ -13,6 +13,7 @@ setup(name='loremipsum.workflow',
       # http://pypi.python.org/pypi?:action=list_classifiers
       classifiers=[
         "Framework :: Plone",
+        "Framework :: Plone :: 4.2",
         "Programming Language :: Python",
         ],
       keywords='plone workflow security example',
